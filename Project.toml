@@ -1,6 +1,6 @@
 name = "ExoQuant"
 uuid = "d322723e-b82c-4902-a94c-baada04d7446"
-version = "0.1.0"
+version = "0.2.0"
 authors = ["Olaf Rogalsky <olaf.rogalsky@gmail.com>"]
 
 [deps]
